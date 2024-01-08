@@ -16,7 +16,7 @@
 
 - :computer: Estou cursando Sistemas de Informação e estou atualmente no segundo período!
 - :hourglass_flowing_sand: Explorando JavaScript, HTML, CSS e C
-- :man_technologist: Apaixonado por, jogos e inovação! Atualmente desenvolvo alguns jogo na Unreal Engine 5.0.
+- :man_technologist: Apaixonado por jogos e inovação! Atualmente desenvolvo alguns jogo na Unreal Engine 5.0.
 
 
 <h2> Você consegue me encontrar também aqui:</h2>
