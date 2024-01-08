@@ -21,10 +21,8 @@
 
 <h2> Você consegue me encontrar também aqui:</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiianogbastos?igsh=MWU3Y3k1cm9uazdwcw==)
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-bastos-13211397/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiianogbastos?igsh=MWU3Y3k1cm9uazdwcw==)   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-bastos-13211397/)
 
 <h2 align="left">
  
