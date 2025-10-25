@@ -37,7 +37,7 @@
 <h2 align="left">👨🏻‍💻 Sobre mim:</h2>
 
 - :computer: Estou cursando Sistemas de Informação e estou atualmente no segundo período!
-- :hourglass_flowing_sand: Explorando JavaScript, HTML, CSS e JavaScript, PostgreeSQL, React , C e C++.
+- :hourglass_flowing_sand: Explorando Java, HTML, CSS e JavaScript, PostgreeSQL, React , C e C++.
 - :man_technologist: Apaixonado por jogos e inovação! Atualmente desenvolvo alguns jogo na Unreal Engine 5.0.
 
 
